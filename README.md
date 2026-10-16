@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <em>୨୧ just a girl who loves code, cute things & late-night debugging ୨୧</em>
+  <strong>୨୧ Full Stack Developer ୨୧</strong>
   <br/>
-  🌸 coding my little world · 🎀 learning as I go · 💗 building cool things
+  <em>just a girl who loves code, cute things & late-night debugging</em>
+  <br/>
+  🌸 frontend · backend · databases · 🎀 pink pastel vibes · 💗 building cool things
 </p>
 
 ---
@@ -15,8 +17,9 @@
 ### 🎀 about me
 
 - 🩷 hi, i'm **petrych0re**
+- 💻 **Full Stack Developer** — building web experiences from frontend to backend
 - 🌷 interested in app development and exploring new technologies
-- 💻 currently working on **[LibTool](https://github.com/petrych0re/LibTool)**
+- ✨ currently working on **[LibTool](https://github.com/petrych0re/LibTool)**
 - ☁️ learning, creating, and making mistakes prettier
 
 ### 💌 little projects
